@@ -6,7 +6,9 @@ Terceiro projeto da minha jornada de estudos em Flutter, criado para simular uma
 
 A tela principal exibe uma lista rolável dos filmes mais populares do momento. Ao tocar em um filme, o usuário é levado a uma segunda tela, onde pode ver informações detalhadas como a sinopse completa, nota de avaliação e um pôster em tamanho maior.
 
-![GIF do App](/assets/screens.gif)
+<div align="center">
+  <img src="/assets/screens.gif" alt="GIF do App" width="400" />
+</div>
 
 ---
 
