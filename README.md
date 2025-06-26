@@ -6,8 +6,6 @@ Terceiro projeto da minha jornada de estudos em Flutter, criado para simular uma
 
 A tela principal exibe uma lista rolável dos filmes mais populares do momento. Ao tocar em um filme, o usuário é levado a uma segunda tela, onde pode ver informações detalhadas como a sinopse completa, nota de avaliação e um pôster em tamanho maior.
 
-_(Dica: Grave um GIF mostrando a rolagem da lista e a navegação para a tela de detalhes. É a melhor forma de demonstrar a funcionalidade completa do app!)_
-
 ![GIF do App](/assets/screens.gif)
 
 ---
@@ -53,7 +51,7 @@ Este projeto foi construído utilizando a fantástica API gratuita do [The Movie
 
 ```bash
 # Clone este repositório
-$ git clone [https://github.com/SeuUsuario/cine_gyn_flutter.git](https://github.com/SeuUsuario/cine_gyn_flutter.git)
+$ git clone [https://github.com/MachadoJorgeH/movie_app_flutter](https://github.com/MachadoJorgeH/movie_app_flutter)
 
 # Acesse a pasta do projeto
 $ cd cine_gyn_flutter
